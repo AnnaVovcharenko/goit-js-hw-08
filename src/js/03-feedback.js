@@ -37,9 +37,7 @@ function onFormSubmit(evt) {
         elements.message.value = save.message;
        
     }
-    elements.email.currentTarget = '';
-    elements.message.currentTarget = '';
-    })();
+      })();
 
 
 
